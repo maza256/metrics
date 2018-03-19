@@ -1,0 +1,17 @@
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\obj\Debug\sqliteProgram.csprojResolveAssemblyReference.cache
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\obj\Debug\sqliteProgram.csproj.CoreCompileInputs.cache
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\sqliteProgram.exe.config
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\sqliteProgram.exe
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\sqliteProgram.pdb
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\EntityFramework.dll
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\System.Data.SQLite.dll
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\EntityFramework.xml
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\System.Data.SQLite.xml
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\obj\Debug\sqliteProgram.csproj.CopyComplete
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\obj\Debug\sqliteProgram.exe
+C:\Users\maza2\source\repos\sqliteProgram\sqliteProgram\obj\Debug\sqliteProgram.pdb
