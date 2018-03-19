@@ -37,25 +37,3 @@ namespace Metrics
         }
     }
 }
-
-/* 
-            //Create a new sqlite file
-            SQLiteConnection.CreateFile("Doors.sqlite");
-            //Connect to the sqlite file
-            SQLiteConnection m_dbConnection = new SQLiteConnection("Data Source=Doors.sqlite;Version=3;");
-            m_dbConnection.Open();
-
-            //command that will create the tables
-            string sql = "create table highscores (name varchar(20), score int)";
-            //Execute the command
-            SQLiteCommand command = new SQLiteCommand(sql, m_dbConnection);
-            command.ExecuteNonQuery();
-            //New command to insert data
-            sql = "insert into highscores (name, score) values ('Me', 9001)";
-            //Execute Command
-            command = new SQLiteCommand(sql, m_dbConnection);
-            command.ExecuteNonQuery();
-
-            //Must close the database before exiting.
-            m_dbConnection.Close();
-*/
