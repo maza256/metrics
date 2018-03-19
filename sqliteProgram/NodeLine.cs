@@ -68,17 +68,10 @@ namespace Metrics
             if ((objectHeading == "") && (objectText == "")) //Module Level Error Check 5
                 Console.WriteLine(absoluteNumber + " Objects without an Object Heading & Object Text");
         }
-
-     /*   public void updateDB(SQLiteConnection m_dbConnection)
-        { 
-            
-        }
-        */
         public void printContents() //Method to print all information contained
         {
-            //Console.WriteLine(": " + absoluteNumber + ", D: " + objectHeading + ", A:" + createdBy);
-            //Console.WriteLine("There are " + srdObjectCnt + " objects in the SRD");
-            //Console.Read();
+            Console.WriteLine(": " + absoluteNumber + ", D: " + objectHeading + ", A:" + createdBy);
+            Console.WriteLine("There are " + srdObjectCnt + " objects in the SRD");
         }
     }
 }
